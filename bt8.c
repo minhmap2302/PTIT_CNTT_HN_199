@@ -19,3 +19,4 @@ int main() {
     printf(("Phan tu xuar hien nhieu nhat la: %d\n"),phantu);
     return 0;
 }
+// độ phức tạp là O(n);
