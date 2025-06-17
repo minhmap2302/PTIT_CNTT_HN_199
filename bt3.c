@@ -1,5 +1,5 @@
 int* mallocArray(int n) {
-    int * ar = (int*)malloc(n*sizeof(int));
+    int * arr = (int*)malloc(n*sizeof(int));
     for (int i = 0; i < n; i++) {
         arr[i] = i;
     }
